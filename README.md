@@ -1,4 +1,4 @@
-1. Download the dataset 
+1. Download the MI-EEG dataset 
 Link: https://zenodo.org/record/7893847
 
 2. Python
